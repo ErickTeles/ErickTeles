@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickjhonys2&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=erickjhonys2&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=erickjhonys2&theme=dark&hide_border=true_color=gray&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erickjhonys2&theme=dark&hide_border=true_color=gray)<br/>
 
 
