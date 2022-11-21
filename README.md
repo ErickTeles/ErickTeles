@@ -14,7 +14,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=erickjhonys2&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=erickjhonys2&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/ffffff/?user=erickjhonys2&theme=dark&hide_border=true)<br/>
 
 
 ---
