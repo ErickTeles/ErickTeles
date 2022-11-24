@@ -13,10 +13,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=erickjhonys2&theme=dark&hide_border=true_color=gray&include_all_commits=true&count_private=false&layout=compact)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=erickjhonys2&theme=dark&border_radius=0&locale=pt-br&background=000000&ring=DD2727&stroke=DD2727&border=DD2727&currStreakLabel=DD2727)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=erickjhonys2&theme=dark&border_radius=0&locale=pt-br&background=000000&fire=FF2D2D&ring=DD2727&stroke=DD2727&border=DD2727&currStreakLabel=DD2727)](https://git.io/streak-stats)
-
-
+![](https://github-readme-stats.vercel.app/api?username=erickjhonys2&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=erickjhonys2&theme=dark&hide_border=false)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=erickjhonys2&icon=0&color=0)](https://visitcount.itsvg.in)
 
