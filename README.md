@@ -10,17 +10,6 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ErickTeles&theme=react&bg_color=0d1117&color=b20000&line=595959&point=800000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ErickTeles&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center"> 
-<a href="https://instagram.com/erick_jhonys" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&"</a>
-<a href = "mailto:erickteles2012@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/erick-teles-de-oliveira-0a9587155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
  
  ### Main skills:
 ![HTML](https://img.shields.io/badge/-Html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -37,6 +26,11 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 
+<div align="center"> 
+<a href="https://instagram.com/erick_jhonys" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&"</a>
+<a href = "mailto:erickteles2012@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/erick-teles-de-oliveira-0a9587155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
