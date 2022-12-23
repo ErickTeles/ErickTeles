@@ -26,9 +26,7 @@
 ![Node.Js](https://img.shields.io/badge/-node.js-0D1117?style=for-the-badge&logo=Node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117&textColor=0D1117)&nbsp;
-![.Net](https://img.shields.io/badge/-.Net-0D1117?style=for-the-badge&logo=.Net&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSharp](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=CSharp&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
+
 <div align="center">
 <h3> Contacts by <a href="https://www.linkedin.com/in/erick-teles-de-oliveira-0a9587155/">Erick Teles</a> ☕</h3>
 <a href="https://www.linkedin.com/in/erick-teles-de-oliveira-0a9587155/" target="_blank"><img src="https://img.icons8.com/ios-filled/30/696969/linkedin-circled--v1.png"></a>
