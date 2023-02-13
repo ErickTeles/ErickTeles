@@ -27,7 +27,9 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Json-0D1117?style=for-the-badge&logo=json&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Json](https://img.shields.io/badge/-Json-0D1117?style=for-the-badge&logo=json&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=Jenkins&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 <div align="center">
 <h3> Contacts by <a href="https://www.linkedin.com/in/erick-teles-de-oliveira-0a9587155/">Erick Teles</a> ☕</h3>
