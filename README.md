@@ -30,6 +30,10 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=MicrosoftSQLServer&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-0D1117?style=for-the-badge&logo=MicrosoftAzure&labelColor=0D1117&textColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=AmazonAWS&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-0D1117?style=for-the-badge&logo=C Sharp&labelColor=0D1117&textColor=0D1117)&nbsp;
+![.Net](https://img.shields.io/badge/-.Net-0D1117?style=for-the-badge&logo=.Net&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 <div align="center">
