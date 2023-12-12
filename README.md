@@ -9,7 +9,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickTeles&theme=github-compact&area_color=ff0000&line=ff0000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickTeles&theme=github-compact&area_color=ff0000&line=ff0000&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  ### Main skills:
 ![HTML](https://img.shields.io/badge/-Html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
