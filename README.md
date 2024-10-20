@@ -14,6 +14,8 @@
  ### Main skills:
 ![OCI](https://img.shields.io/badge/-OCI-0D1117?style=for-the-badge&logo=Oracle&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
+![ESXI](https://img.shields.io/badge/-ESXI-0D1117?style=for-the-badge&logo=ESXI&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=Jenkins&labelColor=0D1117&textColor=0D1117)&nbsp;
