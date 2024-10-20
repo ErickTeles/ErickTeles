@@ -12,7 +12,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickTeles&theme=github-compact&area_color=ff0000&line=ff0000&hide_border=true&radius=0)](https://github.com/ashutosh00710/github-readme-activity-graph)
  
  ### Main skills:
-![OCI](https://img.shields.io/badge/-OCI-0D1117?style=for-the-badge&logo=OracleCloud&labelColor=0D1117)&nbsp;
+![OCI](https://img.shields.io/badge/-OCI-0D1117?style=for-the-badge&logo=Oracle&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
