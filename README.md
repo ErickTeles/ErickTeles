@@ -26,7 +26,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=MicrosoftSQLServer&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117&textColor=0D1117)&nbsp;
-![.Net](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=Network&labelColor=0D1117&textColor=0D1117)&nbsp;
+![.Net](https://img.shields.io/badge/-.NET-0D1117?style=for-the-badge&logo=Fortinet&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 <div align="center">
