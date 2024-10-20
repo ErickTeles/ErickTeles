@@ -13,7 +13,7 @@
  
  ### Main skills:
 ![OCI](https://img.shields.io/badge/-OCI-0D1117?style=for-the-badge&logo=Oracle&labelColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
