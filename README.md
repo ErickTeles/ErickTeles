@@ -26,7 +26,6 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Ngix](https://img.shields.io/badge/-Ngix-0D1117?style=for-the-badge&logo=Ngix&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Fortinet](https://img.shields.io/badge/-Fortinet-0D1117?style=for-the-badge&logo=Fortinet&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
