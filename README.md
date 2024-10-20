@@ -22,13 +22,11 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117&textColor=0D1117)&nbsp;
 ### Next studies:
 ![Json](https://img.shields.io/badge/-Json-0D1117?style=for-the-badge&logo=json&labelColor=0D1117&textColor=0D1117)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node.Js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MicrosoftSQLServer](https://img.shields.io/badge/-SQLServer-0D1117?style=for-the-badge&logo=MicrosoftSQLServer&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117&textColor=0D1117)&nbsp;
-![.Net](https://img.shields.io/badge/-Firewall-0D1117?style=for-the-badge&logo=Fortinet&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Fortinet](https://img.shields.io/badge/-Fortinet-0D1117?style=for-the-badge&logo=Fortinet&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 <div align="center">
