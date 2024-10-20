@@ -16,7 +16,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=for-the-badge&logo=Jenkins&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117&textColor=0D1117)&nbsp;
 ### Next studies:
 ![Json](https://img.shields.io/badge/-Json-0D1117?style=for-the-badge&logo=json&labelColor=0D1117&textColor=0D1117)&nbsp;
