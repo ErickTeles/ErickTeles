@@ -17,7 +17,7 @@
 ### Studying in this moment:
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
-![Bash](https://img.shields.io/badge/-bash-0D1117?style=for-the-badge&logo=Jenkins&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Bash](https://img.shields.io/badge/-bash-0D1117?style=for-the-badge&logo=bash&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Network](https://img.shields.io/badge/-network-0D1117?style=for-the-badge&logo=network&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117&textColor=0D1117)&nbsp;
 
