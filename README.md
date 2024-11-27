@@ -10,14 +10,12 @@
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickTeles&theme=github-compact&area_color=ff0000&line=ff0000&hide_border=true&radius=0)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-[!### Main skills:]
 
-
-### Studying in this moment:
+### Studying at the moment:
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 
 <div align="center">
 <h3> Contacts by <a href="https://www.linkedin.com/in/erick-teles-de-oliveira-0a9587155/">Erick Teles</a> ☕</h3>
