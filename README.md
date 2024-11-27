@@ -15,19 +15,11 @@
 
 
 ### Studying in this moment:
-![Linux](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=Ubuntu&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![Bash](https://img.shields.io/badge/-bash-0D1117?style=for-the-badge&logo=Jenkins&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![Network](https://img.shields.io/badge/-network-0D1117?style=for-the-badge&logo=network&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=Git&labelColor=0D1117&textColor=0D1117)&nbsp;
-### Next studies:
-![Json](https://img.shields.io/badge/-Json-0D1117?style=for-the-badge&logo=json&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=laravel&labelColor=0D1117&textColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=MySQL&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-0D1117?style=for-the-badge&logo=Kubernetes&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Fortinet](https://img.shields.io/badge/-Fortinet-0D1117?style=for-the-badge&logo=Fortinet&labelColor=0D1117&textColor=0D1117)&nbsp;
-
 
 <div align="center">
 <h3> Contacts by <a href="https://www.linkedin.com/in/erick-teles-de-oliveira-0a9587155/">Erick Teles</a> ☕</h3>
